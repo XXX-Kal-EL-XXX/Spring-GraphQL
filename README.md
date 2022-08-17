@@ -3,9 +3,10 @@ Spring Boot Application with the implementation of GraphQL.<br/>
 Systematic Diagram for GraphQL:<br/>
 ![](images/GraphQL_spring-1-1536x922.png)
 <br/>
-![](images/graphql.png)
+
 ================================================================================
 
+![](images/graphql.png)
 <br/>
 
 <br/>
