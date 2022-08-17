@@ -1,4 +1,5 @@
-# Spring-GraphQL</br>
+# Spring-GraphQL<br/>
+<br/>
 Spring Boot Application with the implementation of GraphQL.<br/>
 Systematic Diagram for GraphQL:<br/>
 ![](images/GraphQL_spring-1-1536x922.png)
