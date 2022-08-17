@@ -1,16 +1,8 @@
 # Spring-GraphQL</br>
 </br>
 Spring Boot Application with the implementation of GraphQL.<br/>
-<b>Systematic Diagram for GraphQL:</b></br>
 </br>
-
-
-
-
 ![](images/graphql.png)
-![](images/GraphQL_spring-1-1536x922.png)
-</br>
-
 </br>
 1.@SchemaMapping: This annotation maps and binds a handler with the field in the GraphQL schema, it can be used at the method or class</br> level.
 It accepts two parameters typeName= and field=. It’s also the parent annotations of the other query-specific annotations.</br>
@@ -18,3 +10,10 @@ It accepts two parameters typeName= and field=. It’s also the parent annotatio
 3.@MutationMapping: This annotation maps handler methods with the mutation query in the GraphQL schema.<br/>
 4.@SubscriptionMapping: Similar to a query allowing you to fetch data from the server. Subscriptions offer a long-lasting</br>
 operation that can change their result over time.
+</br>
+===========================================================================================
+</br>
+<b>Systematic Diagram for GraphQL:</b></br>
+![](images/GraphQL_spring-1-1536x922.png)
+
+
