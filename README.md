@@ -3,15 +3,15 @@
 Spring Boot Application with the implementation of GraphQL.<br/>
 <b>Systematic Diagram for GraphQL:</b></br>
 </br>
-
+![](images/GraphQL_spring-1-1536x922.png)
 </br>
-===================================================================================
+=======================================================================================
 
 ![](images/graphql.png)
 </br>
 
 </br>
-1.@SchemaMapping: This annotation maps and binds a handler with the field in the GraphQL schema, it can be used at the method or class level.</br>
+1.@SchemaMapping: This annotation maps and binds a handler with the field in the GraphQL schema, it can be used at the method or class</br> level.
 It accepts two parameters typeName= and field=. It’s also the parent annotations of the other query-specific annotations.</br>
 2.@QueryMapping: @QueryMapping is a composed annotation that acts as a shortcut for @SchemaMapping with typeName="Query".</br>
 3.@MutationMapping: This annotation maps handler methods with the mutation query in the GraphQL schema.<br/>
