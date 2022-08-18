@@ -7,7 +7,6 @@ Spring Boot Application with the implementation of GraphQL.
 <img src="images/GraphQL_spring-1-1536x922.png" width="60%" height="50%" >
 
 
-==================================================
 <br/>
 <br/>
 <img src="images/graphql.png" width="60%" height="50%">
